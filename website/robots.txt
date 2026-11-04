@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://planetic-labs.github.io/sitemap.xml
+Sitemap: https://planetic-labs.github.io/plupo/sitemap.xml
