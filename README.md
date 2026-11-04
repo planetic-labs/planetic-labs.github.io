@@ -2,7 +2,7 @@
 
 The organization website at https://planetic-labs.github.io/.
 
-A static, responsive page introducing Planetic Labs as an open source software company and showcasing public projects. Plupo and Kovcheg have MIT licenses; links to other repositories do not imply a particular license or release status.
+A static, responsive page introducing Planetic Labs as an open source software company and showcasing public projects. Featured projects are Plupo and Beacon. Plupo has an MIT license; Beacon is linked as a public project without a license claim. Links to other repositories do not imply a particular license or release status.
 
 Edit `website/index.html` and `website/style.css`. There is no build step, JavaScript, analytics, third-party font, or package installation. Preview with `python3 -m http.server 8081 --directory website`.
 
